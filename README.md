@@ -1,2 +1,2 @@
-# islandCounter
-Code Challenge
+# number of islands
+Leet code Challenge
